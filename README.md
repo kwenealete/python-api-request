@@ -1,0 +1,1 @@
+This is a simple python App which shows how to make API request and access data from the the various endpoints.
